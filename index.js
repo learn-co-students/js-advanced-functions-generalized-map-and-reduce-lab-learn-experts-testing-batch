@@ -1,4 +1,4 @@
-// Add your functions here
+// Add your functions here//
 function map(arr, cb){
   const newArr = []
   for(let i = 0; i < arr.length; i++){
